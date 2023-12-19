@@ -8,6 +8,7 @@
         url('NotoSans-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
+    font-display: swap;
 }
 
 
@@ -22,6 +23,7 @@
         url('NotoSans.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 
